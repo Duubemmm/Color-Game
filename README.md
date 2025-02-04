@@ -27,7 +27,7 @@ The **Color Guessing Game** is an interactive web game that challenges players t
 7. Click the **New Game** button to reset the score and start fresh.
 
 ## 🎥 Demo
-You can play the game [here](#) (Update with deployment link if hosted).
+You can play the game [https://color-game-duubemmms-projects.vercel.app/](#).
 
 ## 📂 Project Structure
 ```
@@ -40,7 +40,7 @@ You can play the game [here](#) (Update with deployment link if hosted).
 ## 📌 Setup & Installation
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/your-username/color-guessing-game.git
+   git clone https://github.com/Duubemmm/Color-Game
    cd color-guessing-game
    ```
 2. **Open in Browser**
@@ -54,9 +54,6 @@ You can play the game [here](#) (Update with deployment link if hosted).
 - Add a **timer** for each round.
 - Implement a **difficulty level** (easy, medium, hard).
 - Store **high scores** using local storage.
-
-## 📜 License
-This project is open-source and available under the **MIT License**.
 
 ---
 Happy coding! 🎨🔥
